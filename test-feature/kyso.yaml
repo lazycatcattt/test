@@ -1,0 +1,9 @@
+title: "My awesome post"
+description: "This is a description of what I did in my awesome post"
+branch: "staging"
+main: "test2.ipynb"
+tags:
+  - apples
+  - organges
+posts:
+  - "*"
